@@ -1,0 +1,31 @@
+body {
+    background-color: lightslategray;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+    padding: 5px;
+}
+
+
+li {
+    display: inline;
+    padding: 10px;
+    margin: 30px;
+    background-color: darkslategrey;
+    color: white;
+}
+
+ul {
+    text-align: center;
+}
+
+#firstimage {
+    height: 400px;
+    margin: 5px;
+}
+
+#secondimage {
+    height:300px;
+}
