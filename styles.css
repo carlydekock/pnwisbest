@@ -20,7 +20,7 @@ nav ul {
 }
 nav ul li {
     display: inline-block;
-    margin: 10px;
+    margin: 20px;
     color: white;
     font-size: 24px;
 }
@@ -28,6 +28,10 @@ nav ul li {
 #firstimage {
     height: 400px;
     margin: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
 }
 
 #secondimage {
