@@ -8,17 +8,21 @@ h1 {
     padding: 5px;
 }
 
-
-li {
-    display: inline;
-    padding: 10px;
-    margin: 30px;
+nav {
     background-color: darkslategrey;
-    color: white;
+    text-align: center;
 }
 
-ul {
-    text-align: center;
+nav ul {
+    margin: 0;
+    padding: 0;
+
+}
+nav ul li {
+    display: inline-block;
+    margin: 10px;
+    color: white;
+    font-size: 24px;
 }
 
 #firstimage {
@@ -28,4 +32,10 @@ ul {
 
 #secondimage {
     height:300px;
+}
+
+footer {
+    background: darkslategrey;
+    text-align: center;
+    color: white;
 }
